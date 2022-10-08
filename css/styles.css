@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&family=Righteous&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.carousel-title {
+    font-family: 'Righteous', cursive;
+    font-size: 72px;
+}
+#experiences {
+    padding: 40px;
+}
+.title {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    text-decoration: underline;
+    text-decoration-color: #2624b8;
+    font-family: 'Righteous', cursive;
+}
+.navbar {
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+.navbar-brand {
+    font-family: 'Righteous', cursive;
+}
+.bg-pink {
+    background-color: rgb(207, 145, 28);
+}
+.about-mf .box-shadow-full {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  
+  .about-mf .about-img {
+    margin-bottom: 2rem;
+  }
+  
+  .about-mf .about-img img {
+    margin-left: 10px;
+  }
+  
+  .skill-mf span {
+    color: #a53ca0;
+  }
+  
+  .skill-mf .progress {
+    background-color: #cde1f8;
+    margin: .5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: .7rem;
+  }
+  
+  .skill-mf .progress .progress-bar {
+    height: .7rem;
+    background-color: hsl(56, 80%, 47%);
+  }
